@@ -1,13 +1,13 @@
-# Ansible Role for Document Viewer
+# Ansible Role for Document Viewer with Flatpak
 
 <a href="https://alvistack.com" title="AlviStack" target="_blank"><img src="/alvistack.svg" height="75" alt="AlviStack"></a>
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-evince/master)](https://gitlab.com/alvistack/ansible-role-evince/-/pipelines)
-[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-evince.svg)](https://github.com/alvistack/ansible-role-evince/tags)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-evince.svg)](https://github.com/alvistack/ansible-role-evince/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.evince-blue.svg)](https://galaxy.ansible.com/alvistack/evince)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-flatpak_evince/master)](https://gitlab.com/alvistack/ansible-role-flatpak_evince/-/pipelines)
+[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-flatpak_evince.svg)](https://github.com/alvistack/ansible-role-flatpak_evince/tags)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-flatpak_evince.svg)](https://github.com/alvistack/ansible-role-flatpak_evince/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.flatpak_evince-blue.svg)](https://galaxy.ansible.com/alvistack/flatpak_evince)
 
-Ansible Role for Document Viewer Installation.
+Ansible Role for Document Viewer with Flatpak.
 
 ## Requirements
 
