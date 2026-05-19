@@ -1,4 +1,4 @@
-# Ansible Role for Document Viewer
+# Ansible Role for Document Viewer with Flatpak
 
 ## 13.6.0 - TBC
 
